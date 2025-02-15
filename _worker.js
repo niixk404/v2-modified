@@ -226,9 +226,7 @@ var cf_worker_vless_default = {
                     status: 404,
                     headers: {
                         "content-type": "text/html; charset=utf-8",
-                        "WWW-Authenticate": "Basic"
-                        "Expect": "100-continue"
-                        "Server": "Apache"
+                        "WWW-Authenticate": "Advanced"
                     }
                 }
             );
