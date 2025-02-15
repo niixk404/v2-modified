@@ -227,7 +227,6 @@ var cf_worker_vless_default = {
                     headers: {
                         "content-type": "text/html; charset=utf-8",
                         "WWW-Authenticate": "Basic"
-                        "Upgrade": "Websocket"
                         "Expect": "100-continue"
                         "Server": "Apache"
                     }
